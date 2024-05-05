@@ -6,19 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "react-native-webview": "11.17.2"
-  },
+  "dependencies": {},
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "react-native-webview": "*"
   },
   "keywords": [
-    "react-native-component",
-    "react-component",
-    "react-native",
-    "ios",
-    "android",
+    "react-native-highcharts",
+    "react-native-highcharts-wrapper",
     "highcharts",
     "graphs",
     "wrapper",

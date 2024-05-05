@@ -4,16 +4,16 @@ Easy to use wrapper to utilise Highcharts within react-native applications.
 
 ## Getting Started
 
-### `npm install react-native-highcharts-wrapper`
+### `npm install react-native-highcharts-wrapper3`
 
 or
 
-### `yarn add react-native-highcharts-wrapper`
+### `yarn add react-native-highcharts-wrapper3`
 
 ## Example
 
 ```javascript
-import ChartView from 'react-native-highcharts-wrapper';
+import ChartView from 'react-native-highcharts-wrapper3';
 
 export default function HighChart() {
   const Highcharts = 'Highcharts';
